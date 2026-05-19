@@ -6,7 +6,7 @@
 ;; Maintainer: Daniel Mendler <mail@daniel-mendler.de>
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 ;; Created: 2021
-;; Version: 0.9
+;; Version: 0.10
 ;; Package-Requires: ((emacs "29.1") (consult "2.8"))
 ;; URL: https://github.com/minad/affe
 ;; Keywords: matching, files, completion
